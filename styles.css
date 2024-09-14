@@ -1,0 +1,28 @@
+
+img{
+    width:48px;
+
+    height:48px;
+
+}
+
+body{
+
+
+
+    margin: 30px;
+    background-color: antiquewhite;
+    border: 9px solid red;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+       
+
+}
+
+section{
+
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)
+}
+
